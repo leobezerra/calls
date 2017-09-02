@@ -7,4 +7,6 @@
 
 * [**Design by optimization in swarm robotics**](http://demiurge.be/openings/postdoc-optimization.html) -- *IRIDIA, Université Libre de Bruxelles, Brussels, Belgium*
 
-# Paper Calls
+# Special Issue CFPs
+
+* [**Computational Intelligence Techniques in Bioinformatics and Bioengineering**](http://personalpages.manchester.ac.uk/staff/Richard.Allmendinger/IEEE_CIM_SI_CITBB2018.html) -- IEEE Computational Intelligence Magazine
