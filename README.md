@@ -9,5 +9,5 @@
 
 # Special Issues
 
-* [**Algorithm Selection and Configuration in Evolutionary Computation **](issues/2017-ecj-coseal.pdf) -- *Evolutionary Computation Journal, MIT Press*
+* [**Algorithm Selection and Configuration in Evolutionary Computation**](issues/2017-ecj-coseal.pdf) -- *Evolutionary Computation Journal, MIT Press*
 * [**Computational Intelligence Techniques in Bioinformatics and Bioengineering**](http://personalpages.manchester.ac.uk/staff/Richard.Allmendinger/IEEE_CIM_SI_CITBB2018.html) -- IEEE Computational Intelligence Magazine
