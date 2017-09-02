@@ -5,6 +5,6 @@
 
 # Post-doc Calls
 
-[**Design by optimization in swarm robotics**](http://demiurge.be/openings/postdoc-optimization.html) | *IRIDIA, Université Libre de Bruxelles, Brussels, Belgium*
+* [**Design by optimization in swarm robotics**](http://demiurge.be/openings/postdoc-optimization.html) -- *IRIDIA, Université Libre de Bruxelles, Brussels, Belgium*
 
 # Paper Calls
