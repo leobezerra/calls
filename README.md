@@ -8,6 +8,10 @@
 
 * [**Design by optimization in swarm robotics**](http://demiurge.be/openings/postdoc-optimization.html) -- *IRIDIA, Université Libre de Bruxelles, Brussels, Belgium*
 
+# Research position
+
+* [**Research staff member, AI Reasoning**](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=26059&siteid=5016&AReq=108307BR#jobDetails=119339_5016) -- MIT-IBM Watson AI Lab, USA
+
 # Special Issues
 
 * [**Algorithm Selection and Configuration in Evolutionary Computation**](issues/2017-ecj-coseal.pdf) -- *Evolutionary Computation Journal, MIT Press*
