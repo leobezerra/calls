@@ -9,6 +9,7 @@
 
 # Post-doc
 
+* [**DESDEO: Decision Support for Computationally Demanding Optimization Problems**](http://www.mit.jyu.fi/optgroup/call.html) -- *Industrial Optimization Group, University of Jyväskylä, Jyväskylä, Finland*
 * [**Design by optimization in swarm robotics**](http://demiurge.be/openings/postdoc-optimization.html) -- *IRIDIA, Université Libre de Bruxelles, Brussels, Belgium*
 
 # Research position
