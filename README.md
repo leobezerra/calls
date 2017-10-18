@@ -1,5 +1,6 @@
 # PhD
 
+* [Semantic and modular representation of plant growth models using a declarative metalanguage](phd/2017-inra-montpellier.pdf) -- *INRA, Université de Montpellier, Montpellier, France*
 * [**Algorithm selection and configuration, meta-learning and combinatorial problems**](phd/2017-wyoming.pdf) -- *University of Wyoming, Wyoming, USA*
 * [**Deep Learning and Knowledge Management for Spacecraft Design**](phd/2017-icelab.pdf) -- *ICE Lab, Strathclyde University, Glasgow, UK*
 * [**Optimization algorithms for the automatic design of robot swarms**](http://demiurge.be/openings/phd-optimization.html) -- *IRIDIA, Université Libre de Bruxelles, Brussels, Belgium*
